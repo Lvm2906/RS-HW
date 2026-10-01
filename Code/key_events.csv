@@ -1,0 +1,27 @@
+date,event,description,source
+2025-01-30,ecb_cut,EZB senkt Einlagensatz um 25bp auf 2.75%,ECB Press Release 30.01.2025
+2025-03-05,growth_shock,Deutsche Schuldenbremse-Reform / EUR 500 Mrd Sondervermoegen Verteidigung+Infrastruktur; 10Y-Bund +30bp am Tag,Reuters 05.03.2025
+2025-03-06,ecb_cut,EZB senkt Einlagensatz um 25bp auf 2.50%,ECB Press Release 06.03.2025
+2025-04-02,tariff_shock,"Trump Liberation Day: 20% EU-Tarif, 34% China, 46% Vietnam; globaler Risk-Off, S&P/Treasuries/USD im Sell-America-Trade",Reuters 02.04.2025
+2025-04-17,ecb_cut,EZB senkt Einlagensatz um 25bp auf 2.25%,ECB Press Release 17.04.2025
+2025-06-05,ecb_cut,EZB senkt Einlagensatz um 25bp auf 2.00%,ECB Press Release 05.06.2025
+2025-09-17,fed_cut,Fed senkt 25bp auf 4.00-4.25% (11-1 Vote; Miran dissent fuer -50bp),FOMC Statement 17.09.2025
+2025-10-29,fed_cut,Fed senkt 25bp auf 3.75-4.00% (10-2; gegenlaeufige Dissents Miran/Schmid),FOMC Statement 29.10.2025
+2025-12-10,fed_cut,Fed senkt 25bp auf 3.50-3.75% (9-3-Vote),FOMC Statement 10.12.2025
+2026-02-28,hormus_start,USA+Israel starten Luftkrieg gegen Iran (Khamenei getoetet); Hormus-Blockade beginnt; Brent +13% auf ~$82,Washington Post 28.02.2026
+2026-04-15,hormus_eskalation,US-Marineblockade Iran vollstaendig implementiert; Brent ~$120,CNBC 15.04.2026
+2026-04-29,fed_hold,"Fed haelt bei 3.50-3.75% (8-4-Vote, gegenlaeufige Dissents)",FOMC Statement 29.04.2026
+2026-04-30,ecb_hold,EZB haelt Einlagensatz bei 2.00%; Lagarde verstaerkt Inflations-Aufwaertsrisiken,ECB Press Release 30.04.2026
+2026-05-13,fed_chair_change,"Fuehrungswechsel Fed: Senat bestaetigt Kevin Warsh als neuen Fed-Chair (54-45-Vote); besiegelt den Wechsel Powell->Warsh, Warsh fuehrt ab der Juni-Sitzung.",CNBC 13.05.2026 (Senate confirmation vote)
+2026-05-22,growth_shock,"Eurozone Flash-PMIs Mai brechen ein: Composite 47,5 (von 48,8), Services 46,4; Stagflations-Narrativ verfestigt",S&P Global Flash PMI 22.05.2026
+2026-05-28,cpi_surprise,"US-PCE-Deflator April auf 3,8% (Kernrate 3,3%); Marktreaktion verhalten",Markt-Briefing 29.05.2026
+2026-05-31,hormus_deeskalation,"US-Iran-Deal mit 60-Tage-Feuerpause und Hormuz-Wiederoeffnung (zunaechst signalisiert ~25.05., dann vorlaeufige Vereinbarung; wartet auf Trumps Zustimmung); Brent ~93-97 USD, WTI ~91; entschaerft akute Inflationssorgen - Deal fragil (Iran-Dementi 28.05., erneute Gefechte 29.05.)","Markt-Briefing 30.+31.05.2026 (Wochenend-Recap, Nachrichtenlage 29.-30.05.)"
+2026-06-05,payroll_surprise,"US-Arbeitsmarktbericht Mai deutlich ueber Erwartung: +172.000 Stellen (Konsens ~85.000); zerstreut Fed-Senkungshoffnung, Anleiherenditen auf Mehrwochenhoch, Dollar fest - loest zugleich Halbleiter-/Tech-Ausverkauf aus (Nasdaq -4,18%)",BLS Employment Situation (Mai) 05.06.2026
+2026-06-07,hormus_eskalation,"Wochenend-Eskalation am Golf: Iran feuert Raketen Richtung Kuwait und Bahrain, Strasse von Hormus bleibt blockiert",Markt-Briefing 07.06.2026
+2026-06-10,cpi_surprise,"US-Mai-CPI springt auf 4,2% J/J - hoechster Wert seit ~3 Jahren und erstmals seit Mai 2023 ueber 4%; loest breiten Ausverkauf aus (Dow -1,87% / -953 Pkt)",BLS CPI 10.06.2026 / Markt-Briefing 11.06.2026
+2026-06-11,ecb_hike,"EZB hebt erstmals seit fast 3 Jahren an: Einlagensatz +25bp auf 2,25%; Lagarde reagiert auf kriegsbedingten Inflationsschub",ECB Press Release 11.06.2026 / Markt-Briefing 12.06.2026
+2026-06-14,hormus_deeskalation,"Washington und Teheran bestaetigen am Sonntag ein Abkommen zur Beendigung des seit Februar laufenden Krieges inkl. Wiederoeffnung der Strasse von Hormus; Oelpreise bereits am Freitag (12.06.) gefallen, Brent ~87 USD",Markt-Briefing 14.06.2026
+2026-06-17,fed_hold,"Warshs erste Sitzung als Fed-Chef: Leitzins bei 3,50-3,75% belassen, aber hawkisher Dot-Plot signalisiert fuer 2026 eher Erhoehung als Senkung (Median-Endjahressatz 3,8% statt 3,4%); S&P -1,21%, Renditen und Dollar ziehen an",FOMC Statement 17.06.2026 / Markt-Briefing 18.06.2026
+2026-06-20,hormus_eskalation,"Iran erklaert die Strasse von Hormuz erneut fuer geschlossen - nur Tage nach der Wiederoeffnung; US-CENTCOM bestreitet tatsaechliche Kontrolle; Marktreaktion (Oel/Brent) erst am naechsten Handelstag Montag 22.06.",Markt-Briefing 22.06.2026
+2026-06-22,hormus_deeskalation,"USA und Iran vereinbaren in der Schweiz Fahrplan fuer finales Abkommen binnen 60 Tagen inkl. zollfreier Wiederoeffnung der Strasse von Hormuz; Brent faellt auf ~77,5 USD (tiefster Stand seit Anfang Maerz)",Markt-Briefing 23.06.2026
+2026-06-25,cpi_surprise,"US-PCE-Deflator Mai auf 4,1% (Kernrate 3,4%), hoechster Stand seit 3 Jahren, energiepreisgetrieben; Markt preist ~68% Fed-Hike im September ein",BEA Personal Income & Outlays (PCE Mai) 25.06.2026 / Markt-Briefing 26.06.2026

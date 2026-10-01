@@ -1,0 +1,10 @@
+# Versions on the author's machine (Windows). scipy and statsmodels were not pinned there.
+numpy==2.4.6
+pandas==3.0.3
+scikit-learn==1.9.0
+hmmlearn==0.3.3
+matplotlib==3.11.0
+scipy
+statsmodels
+# Also verified (Linux, Python 3.10): numpy 2.2.6, pandas 2.3.3, scipy 1.15.3, scikit-learn 1.7.2,
+# hmmlearn 0.3.3, statsmodels 0.15.0 - all results reproduce to within 4e-13 (see README).

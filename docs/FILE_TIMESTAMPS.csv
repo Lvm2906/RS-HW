@@ -1,0 +1,64 @@
+# Modification times (UTC) of the original files in the author's working project, recorded on 2026-10-01 before the first commit.
+# sha256 refers to the repository copy; identical_to_source says whether the copy equals the original byte for byte.
+repository_path,source_path_in_project,source_mtime_utc,sha256,identical_to_source
+.gitignore,(repository only),,911395be55447c778105caa955914b0406320d26eb00ea866f847f72b4e55944,
+Abgaben/01.07.Abgabe.py,Abgaben/01.07.Abgabe.py,2026-07-06 18:53:22,ee90979f67e4137874a1cab334cdb5ab045bca0ece52978cbd383f1c3dc76123,"no (repository copy modified, see README)"
+Abgaben/2026-07-06_M28_erster-HMM-fit.py,Abgaben/2026-07-06_M28_erster-HMM-fit.py,2026-07-13 16:03:06,051840ffd8c875858e8a8e1349ec7829a44a440438b845b9f28e0e16d2834a7f,"no (repository copy modified, see README)"
+Abgaben/2026-07-13_M29_BIC-Vergleich.py,Abgaben/2026-07-13_M29_BIC-Vergleich.py,2026-07-26 17:18:54,04f9c82921a70734eeaa9d4f9575a00f50a06cab94c0f4aef71a76511a2aca7b,"no (repository copy modified, see README)"
+Abgaben/2026-07-24_M29_filtered-vs-smoothed.py,Abgaben/2026-07-24_M29_filtered-vs-smoothed.py,2026-08-05 03:40:02,373a7926481e467ca9d7ba01ef848dd8c5b55d595c7bffe12c79886260a452c7,"no (repository copy modified, see README)"
+Abgaben/2026-07-28_M30_crisis-sanity-check.py,Abgaben/2026-07-28_M30_crisis-sanity-check.py,2026-08-05 03:35:59,747c2ea1e655060e781d40433cac2a941c677d71c4a54a0e0ec52b5c36a1fb39,"no (repository copy modified, see README)"
+Abgaben/2026-08-27_P1_rotationstest-eigen.py,Abgaben/2026-08-27_P1_rotationstest-eigen.py,2026-09-20 20:49:38,c8609af01e6f6cf141746891975de8dec40053d3be062dddbec1555e5bb96b19,yes
+Abgaben/2026-08-27_P1_rotationstest-eigen_Notiz.md,Abgaben/2026-08-27_P1_rotationstest-eigen_Notiz.md,2026-09-20 20:50:51,8c848c72e71615e075fb62595b392e712ca5a4b320972018b9f711b946e570c6,yes
+Abgaben/2026-09-20_P2_ar1-schaetzung.py,Abgaben/2026-09-20_P2_ar1-schaetzung.py,2026-09-26 20:44:56,b86bb6f0db93bf3444603ad2f0ba2fb6347a02484b269fcb6c68a0fad574674a,yes
+Abgaben/2026-09-20_P2_ar1-schaetzung_Notiz.md,Abgaben/2026-09-20_P2_ar1-schaetzung_Notiz.md,2026-09-26 20:50:37,81f53d64d53a7eb02f809c8cb3a38f9c6da1ab3f4fb5db26567130cbe609fddd,yes
+Abgaben/2026-09-28_P3_bootstrap.py,Abgaben/2026-09-28_P3_bootstrap.py,2026-09-28 20:29:36,a4c1ee895d502ec61e52df3a773ad19b5b2c1f5f9a65c5a5af4eeaa0df93c1ff,"no (repository copy modified, see README)"
+Abgaben/2026-09-28_P4_bic-stage2.py,Abgaben/2026-09-28_P4_bic-stage2.py,2026-09-28 20:29:40,6a87f8d999f6ed195ede8cb59e5ce2bae2e4f56c368b59aacd2f4be7bd4a3de8,"no (repository copy modified, see README)"
+Abgaben/2026-09-29_P3_Notiz.md,Abgaben/2026-09-29_P3_Notiz.md,2026-09-30 07:50:47,2fccd7d693b6a2593122761db10fcad9d8ed462ae2be3f2e1c1276d25444490d,yes
+Abgaben/ar1_schaetzung.csv,Abgaben/ar1_schaetzung.csv,2026-09-26 20:45:16,129b155ce50b4eda134cdec7b0e7b8b53b1ad283c527d981df43397708a1fb81,yes
+Abgaben/bic_stage2.csv,Abgaben/bic_stage2.csv,2026-09-28 20:30:12,0093fdfd206c3b7d62e856391ecebdacda3d81fdea1f03b12bb87fe91b522c34,yes
+Abgaben/bic_stage2_referenz.csv,Abgaben/bic_stage2_referenz.csv,2026-09-28 12:35:23,6c475f867c87dfd4cc0797acc691dfd7c5ce7d44adb3a1599a9c868a3526a02a,yes
+Abgaben/bootstrap_ergebnisse.csv,Abgaben/bootstrap_ergebnisse.csv,2026-09-28 20:30:09,888bbcbff8d4c4d9f4861c98d21c348298c6061e50f5b06f4bc6603241185014,yes
+Abgaben/bootstrap_referenz_ergebnisse.csv,Abgaben/bootstrap_referenz_ergebnisse.csv,2026-09-29 16:58:07,264e69d97ba8b63026457dda53f70fa36e592140d95111c5f116ee789f2efcc7,yes
+Abgaben/bootstrap_referenz_replikationen.npz,Abgaben/bootstrap_referenz_replikationen.npz,2026-09-29 16:58:07,c734853ecf215acb45f5d336a898f5edab8500071f55b3657159843fa5547343,yes
+Abgaben/bootstrap_ziehungen.npz,Abgaben/bootstrap_ziehungen.npz,2026-09-28 12:27:18,83adc6555dd2e2258c3ec8eb48a525f1b5bec963a6f6b563f85682c2363606fa,yes
+Abgaben/crisis_plot.png,Abgaben/crisis_plot.png,2026-07-10 22:24:25,0aada38c1a5ef64d2979a05435a1bfd3a5654f4c25f1bf22b7e9505a94e4a9cc,no (regenerated when the chain was rerun in the repository)
+Abgaben/einfluss_pruefung.csv,Abgaben/einfluss_pruefung.csv,2026-09-30 20:22:33,32c9d8e9a9859ecf3aac5573952b42e991d47d02b26fc1004386f9c9c654cee1,yes
+Abgaben/krisenwahrscheinlichkeit.png,Abgaben/krisenwahrscheinlichkeit.png,2026-07-27 19:37:48,b9abd31e15e19f732ce9d5dc11d6fced26f3caf8e1b79f9644ca3b3f5fc02dde,no (regenerated when the chain was rerun in the repository)
+Abgaben/permutationstest_ergebnisse.csv,Abgaben/permutationstest_ergebnisse.csv,2026-08-26 21:37:14,8fc13a102a4f2bab85881b0d860deedd72973c8b93b2e00cdd7008cc76cedcaa,yes
+Abgaben/robustheit_startwerte.csv,Abgaben/robustheit_startwerte.csv,2026-09-20 21:08:47,f0579fe7aa7e1f97fcbd4a5c6925bb8c2bf125651acdedbb87d6d14dd935ad83,yes
+Abgaben/rotationstest.csv,Abgaben/rotationstest.csv,2026-09-20 21:06:01,ef323259e17171347cf20552b95bb55e3f7a83d15f7f2643b3fa72165cf95990,yes
+Abgaben/schritt6_smoothed_getaggt.png,Abgaben/schritt6_smoothed_getaggt.png,2026-08-05 03:18:22,38eb1811c7ec1bc123e154c92c2865503ed4e81bb080ec14de1f43abc60231fc,no (regenerated when the chain was rerun in the repository)
+Code/METHODIK.md,Code/METHODIK.md,2026-09-30 20:25:27,e55a3723692e0c931750a3aaf74b892a2204ed02dc067543b60a5e43181faa2d,no (personal information removed in the repository copy; removals marked)
+Code/bic_stage2_referenz.py,Code/bic_stage2_referenz.py,2026-09-28 12:35:21,fc9fcce5daf2728e9ee5af6f0384837e3b54e70468dcb728172c0e193ac838ea,yes
+Code/bootstrap_referenz.py,Code/bootstrap_referenz.py,2026-09-29 16:58:06,575f179b2164024178328d0b02ed65c700bdc116e79655267990ca282ea936d8,yes
+Code/bootstrap_ziehungen.py,Code/bootstrap_ziehungen.py,2026-09-28 12:27:17,766d7f9eaefbe6c5c22b5eb0b218a347e2f11ab73846368cfc12d7195586c46f,yes
+Code/build_context.py,Code/build_context.py,2026-06-01 07:15:36,2826ee1ffbb1b91c2c97e27d9be9130e6e46cc4f0e18b84b6b17fedbfdc50e6b,yes
+Code/build_yields.py,Code/build_yields.py,2026-05-31 21:26:31,c63ba46bbbe383a6789f77eb4590a7724fd7f48c28112139cd82dc918f375649,yes
+Code/context_events.csv,Code/context_events.csv,2026-07-05 13:51:16,f4d7b928cd60b95e8e39b326f42de09cdc88a48b35dc25d7a1c5b2071c77a319,yes
+Code/einfluss_pruefung.py,Code/einfluss_pruefung.py,2026-09-30 20:22:29,6bde72e7b368946a3f463ee839279fbf15eaf90066be75bd66ee41cb31503da6,yes
+Code/hmm_input_changes.csv,Code/hmm_input_changes.csv,2026-07-06 18:53:02,37ccafab834d94833d66b48b25068d47f335ab50e909523a1d8fa7e980474043,yes
+Code/key_events.csv,Code/key_events.csv,2026-08-05 02:26:17,6639d2b602df1d029c6ae8494fefb66e391db97ab36c4ee416a37414e335dfbf,yes
+Code/key_events_korrekturen_2026-10-01.csv,Code/key_events_korrekturen_2026-10-01.csv,2026-10-01 14:35:46,f9c6fa578665aebffe4898ec6154cc48af3881086558fea449853602886ce020,yes
+Code/permutationstest.py,Code/permutationstest.py,2026-08-26 21:37:06,6bba67b9f3e248201d8e8cb706943eea8563a1c31f443a021dd17664fc976429,yes
+Code/robustheit_startwerte.py,Code/robustheit_startwerte.py,2026-09-20 21:08:44,5d110d41de57b14a3b341a2d51d3beb8c2651982ecc4a8904faf362b0ef0f0a4,yes
+Code/yields.csv,Code/yields.csv,2026-06-29 20:18:42,58c18889a4a22aacfe2b43747af43e6379cc56fd24737beff455ea73fbbe5161,yes
+Paper/build_exhibits.py,Paper/build_exhibits.py,2026-10-01 14:47:33,ba2cadf4e8aa6194e0f7a32534da16d1bba8c13eb63e83ed46feb135a6da75d3,yes
+Paper/figures/fig1_regime_path.pdf,Paper/figures/fig1_regime_path.pdf,2026-09-30 23:14:21,f8db14a7149570bcb54e97773a44a03c0720f6ea57d9fbad2ec8b21ec9358af6,yes
+Paper/figures/fig1_regime_path.png,Paper/figures/fig1_regime_path.png,2026-09-30 23:14:21,0e279fd4fecf4ebf0f5ae3e83b718dc6ee6e8807e8cfd3eda417b213fe510515,yes
+Paper/main.pdf,Paper/main.pdf,2026-10-01 14:48:16,2a588fbf4132afcf82d94219a0cf581e9c549352bdad773ebfff42b545cbbb1b,yes
+Paper/main.tex,Paper/main.tex,2026-10-01 14:47:33,1ef0d4cbbc741c8fba4551c6991b6eefb38960a48c1c4f7073ca3781a61b4403,yes
+Paper/numbers.tex,Paper/numbers.tex,2026-10-01 14:47:48,8ffeaf336978585ed4587167c9105f36ef46ae44b479a36ed8c6aee4ce94db04,yes
+Paper/refs.bib,Paper/refs.bib,2026-10-01 14:28:49,4e81fa3cb302387f2fcf5c2869c296a72a1703aff62bd472c5ddfa830b4183f4,yes
+Paper/tables/tab_bic.tex,Paper/tables/tab_bic.tex,2026-09-30 23:14:20,f42dcb78ed77d81abce8a3ae81567dd656946696b532f2937cf526cf66ab971f,yes
+Paper/tables/tab_params.tex,Paper/tables/tab_params.tex,2026-09-30 23:14:20,df824b01a06b281c68d44be99d824961744bb874338c6095e50541a9440e75ae,yes
+Paper/tables/tab_rotation.tex,Paper/tables/tab_rotation.tex,2026-09-30 23:14:20,459df228a10013a0086602ad4d4869c5767e47e9de270918d663efd72d05742b,yes
+README.md,(repository only),,2375d30c716ef09c2df2908f5420a623ba277bd639696d16534eab62286bcc48,
+docs/BELEGPLAN.md,BELEGPLAN.md,2026-09-30 23:10:17,f0a83927bec3dc04fff69dff68d92b76671588ce81bafbcea00fe695cae79eac,yes
+docs/ERGEBNIS_Permutationstest_2026-08-26.md,ERGEBNIS_Permutationstest_2026-08-26.md,2026-09-30 08:55:38,976bc0550f86d56dd41148d60822f3be83d9a4b650ce8e6c8aad4c3c2fcfb616,yes
+docs/KEY_EVENTS_AUDIT_2026-07-27.md,KEY_EVENTS_AUDIT_2026-07-27.md,2026-08-04 03:34:14,07a2828ef61a7d369baa48600a5a75117461a506fd76a3ef22c3d102355d7f49,yes
+docs/KEY_EVENTS_AUDIT_RESPONSE_2026-08-05.md,KEY_EVENTS_AUDIT_RESPONSE_2026-08-05.md,2026-08-05 02:39:00,71a0174856ddddc928529a2be36705152d936c180cbd37cef721c1fca1c8c2d2,yes
+docs/PRAEREGISTRIERUNG_Permutationstest_2026-08-25.md,PRAEREGISTRIERUNG_Permutationstest_2026-08-25.md,2026-08-26 21:31:56,f467c1a0e7eb0b91d539acd38fd0a2c30f7078c22b8a0f21bc92f89a615e280f,yes
+docs/R1_Primaerquellen_2026-10-01.md,Paper/Pruefberichte/R1_Primaerquellen_2026-10-01.md,2026-10-01 14:25:13,83cf3e4ff863fe1e2964b952caa871426a71e9d47c27b5b0eadbeb90479e7608,yes
+docs/REVISION_Praeregistrierung_2026-08-25.md,REVISION_Praeregistrierung_2026-08-25.md,2026-08-26 21:22:33,cc45d252fac6ee87e7c3ebc90e81aeaad49720d8ecdcf878d42c59cfb60fff6b,yes
+docs/ROBUSTHEIT_Startwerte_2026-09-20.md,ROBUSTHEIT_Startwerte_2026-09-20.md,2026-09-20 21:09:53,60080f77fd1f76adc5c70f323cec08820c922a28fe5f1079fd382017ab9f9f68,yes
+requirements.txt,(repository only),,72a0b25773f904dda03d27a560b113b6412244deb94f7c331d9818b26222b5b0,

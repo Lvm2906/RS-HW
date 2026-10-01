@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+Paper/*.aux
+Paper/*.log
+Paper/*.bbl
+Paper/*.blg
+Paper/*.out
+Paper/*.fls
+Paper/*.fdb_latexmk

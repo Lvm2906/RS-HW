@@ -1,0 +1,13 @@
+regimepfad,ereignisse,k,wechsel,maske_tage,abdeckung,n_ereignisse,erwartung_H0,T_obs,p_exakt,null_mittel,null_max,zelle
+Viterbi (primaer),alle Zeilen (26),1,13,38,0.1008,26,2.621,6,0.090186,2.621,9,Robustheit (nur berichtet)
+Viterbi (primaer),alle Zeilen (26),2,13,62,0.1645,26,4.276,9,0.108753,4.276,12,"PRIMAER (gegen alpha=0,05)"
+Viterbi (primaer),alle Zeilen (26),3,13,83,0.2202,26,5.724,13,0.061008,5.724,15,Robustheit (nur berichtet)
+Viterbi (primaer),eine je Episode (22),1,13,38,0.1008,22,2.218,5,0.098143,2.218,8,Robustheit (nur berichtet)
+Viterbi (primaer),eine je Episode (22),2,13,62,0.1645,22,3.618,8,0.071618,3.618,12,Robustheit (nur berichtet)
+Viterbi (primaer),eine je Episode (22),3,13,83,0.2202,22,4.844,12,0.018568,4.844,12,Robustheit (nur berichtet)
+"0,5-Kreuzung (sekundaer)",alle Zeilen (26),1,17,48,0.1273,26,3.31,6,0.185676,3.31,10,Robustheit (nur berichtet)
+"0,5-Kreuzung (sekundaer)",alle Zeilen (26),2,17,73,0.1936,26,5.034,9,0.159151,5.034,13,Robustheit (nur berichtet)
+"0,5-Kreuzung (sekundaer)",alle Zeilen (26),3,17,95,0.252,26,6.552,13,0.079576,6.552,16,Robustheit (nur berichtet)
+"0,5-Kreuzung (sekundaer)",eine je Episode (22),1,17,48,0.1273,22,2.801,5,0.167109,2.801,9,Robustheit (nur berichtet)
+"0,5-Kreuzung (sekundaer)",eine je Episode (22),2,17,73,0.1936,22,4.26,8,0.095491,4.26,12,Robustheit (nur berichtet)
+"0,5-Kreuzung (sekundaer)",eine je Episode (22),3,17,95,0.252,22,5.544,12,0.029178,5.544,14,Robustheit (nur berichtet)
