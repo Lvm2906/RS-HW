@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "RS-HW: Regime-Switching Short-Rate Dynamics. A Hidden Markov Approach to Hull-White Estimation on Euro-Area Government Bond Yields"
+version: "1.0"
+license: "MIT"
+type: software
+abstract: "Working paper and reproducible code. A two-state Gaussian hidden Markov model is fitted to daily changes of level, slope and curvature of 378 ECB euro-area AAA yield curves (2 January 2025 to 26 June 2026). A pre-registered exact rotation test of regime transitions against 26 economic events is not significant (p = 0.1088). Within the inferred regimes, Hull-White (Ornstein-Uhlenbeck) parameters of the 3-month rate are estimated with a BCa residual bootstrap: the volatility ratio is 2.66 (95% interval 2.22 to 3.40); mean reversion is not identified. Licences: code MIT; paper, documentation and author-compiled files CC BY 4.0; yield data subject to the ESCB reuse policy."
+message: "If you use this software or the working paper, please cite it as below."
+authors:
+  - given-names: "Klaus Leopold"
+    family-names: "von Moltke"
+    affiliation: "DHBW Mannheim"
+keywords:
+  - regime switching
+  - hidden Markov model
+  - Hull-White model
+  - Ornstein-Uhlenbeck process
+  - term structure of interest rates
+  - euro area
+  - bootstrap
+  - pre-registration
