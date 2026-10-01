@@ -1,7 +1,7 @@
 # RS-HW — Regime-Switching Short-Rate Dynamics
 
 **A Hidden Markov Approach to Hull–White Estimation on Euro-Area Government Bond Yields**
-Klaus Leopold von Moltke · Working paper, 1 October 2026 · [`Paper/main.pdf`](Paper/main.pdf)
+Klaus Leopold von Moltke · Working paper, 1 October 2026 · [`Paper/main.pdf`](Paper/main.pdf) · Repository: https://github.com/Lvm2906/RS-HW
 
 Two questions on 378 daily ECB AAA yield curves (2 Jan 2025 – 26 Jun 2026):
 
